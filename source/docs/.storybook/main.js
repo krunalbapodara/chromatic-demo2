@@ -8,5 +8,11 @@ module.exports = {
     "@storybook/addon-essentials",
     "@storybook/addon-interactions"
   ],
-  "framework": "@storybook/react"
+  "framework": "@storybook/react",
+  "refs": {
+    otherdemo: {
+      title: "Other project from different repo",
+      url: "https://632045bbdda27045fcd04467-pidpxkzuqp.chromatic.com/"
+    }
+  }
 }
